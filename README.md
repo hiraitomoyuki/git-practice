@@ -1,1 +1,1 @@
-hoge
+hoge１hoge2
